@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: YOCRY # the main title
+title: 맹영주 # the main title
 
 tagline: 전설의 시작 # it will display as the sub-title
 
@@ -36,7 +36,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: YOCRY
+  name: 맹영주
   email: algolord97@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
