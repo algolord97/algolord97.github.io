@@ -45,6 +45,8 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+plugins:
+  - jekyll-include-cache
 
     
 # Site Verification Settings
