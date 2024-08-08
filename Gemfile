@@ -2,10 +2,12 @@
 
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.2.0'
+gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-theme-chirpy'
 gem 'nokogiri', '~> 1.11.0'
 gem 'jekyll-include-cache'
+gem 'jekyll-sass-converter'
+gem 'jekyll-assets'
 
 group :test do
   gem "html-proofer", "~> 3.19.0"
